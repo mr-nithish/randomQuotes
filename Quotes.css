@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Cormorant+Garamond:wght@500&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0x;
+    box-sizing: border-box;
+}
+
+body{
+    background: url('https://wallpaperaccess.com/full/806427.jpg');
+    background-repeat: no-repeat;
+}
+
+.heading{
+    margin-top: 340px;
+    color: whitesmoke;
+    font-family: 'Cinzel', serif;
+}
+
+.button{
+    margin-top: 15px;
+    height: 30px;
+    width: 70px;
+    font-family: 'Cinzel', serif;   
+}
+
+#quote{
+    margin-top: 20px;
+    color: white;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.head{
+    text-align: center;
+}
